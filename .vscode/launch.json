@@ -13,7 +13,7 @@
             "args":[
                 "train",
                 "--dataset",
-                "C:/Ducy/DataSets/breast_coco",
+                "C:/Project/Res/breast_coco",
                 "--model",
                 "coco",
                 "--year",
@@ -28,7 +28,7 @@
             "args":[
                 "evaluate",
                 "--dataset",
-                "C:/Ducy/DataSets/breast_coco",
+                "C:/Project/Res/breast_coco",
                 "--model",
                 "coco",
                 "--year",
@@ -43,7 +43,7 @@
             "args":[
                 "inference",
                 "--dataset",
-                "C:/Ducy/DataSets/breast_coco",
+                "C:/Project/Res/breast_coco",
                 "--model",
                 "coco",
                 "--year",
@@ -58,7 +58,7 @@
             "args":[
                 "train",
                 "--dataset",
-                "C:/Ducy/DataSets/coco",
+                "C:/Project/Res/coco",
                 "--model",
                 "coco",
                 "--year",

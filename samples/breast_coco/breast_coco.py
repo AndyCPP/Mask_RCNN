@@ -20,7 +20,7 @@ import urllib.request
 import shutil
 
 # Root directory of the project
-ROOT_DIR = "C:/Ducy/Repos/Mask_RCNN"
+ROOT_DIR = "C:/Project/Mask_RCNN"
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
